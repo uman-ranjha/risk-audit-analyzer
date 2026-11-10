@@ -1,0 +1,13 @@
+transaction_id,date,time,vendor,amount,requester,approver,payment_method,bank_account_last4,description
+T001,2026-08-03,10:15,Acme Office Supplies,450.00,jdoe,asmith,ACH,1234,Printer paper and toner
+T002,2026-08-03,11:20,Acme Office Supplies,450.00,jdoe,asmith,ACH,1234,Printer paper and toner duplicate
+T003,2026-08-04,09:30,Global Logistics,6000.00,alee,bjones,ACH,5678,Freight charges
+T004,2026-08-04,14:10,Global Logistics,5500.00,alee,bjones,ACH,5678,Freight charges split
+T005,2026-08-05,13:00,TechParts Inc,3200.00,mchen,mchen,Wire,9012,Replacement servers
+T006,2026-08-06,10:00,Office Depot,899.50,kpatel,asmith,ACH,3456,Desk chairs
+T007,2026-08-07,10:00,Office Depot,899.50,kpatel,asmith,ACH,7890,Desk chairs new bank account
+T008,2026-08-08,02:45,CloudServe LLC,12000.00,jdoe,asmith,Wire,2345,Cloud hosting renewal
+T009,2026-08-09,15:30,DataFlow Systems,30000.00,alee,bjones,Wire,6789,Annual software license
+T010,2026-08-10,11:00,Staples Business,5000.00,kpatel,asmith,ACH,1122,Office supplies round amount
+T011,2026-08-11,09:15,Acme Office Supplies,275.25,jdoe,asmith,ACH,1234,Keyboard and mouse
+T012,2026-08-12,16:40,Global Logistics,1250.75,alee,bjones,ACH,5678,Local delivery
