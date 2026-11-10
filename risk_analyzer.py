@@ -222,7 +222,7 @@ def render_report(findings, total_transactions):
         lines.append(f"## {severity} ({len(group)})")
         lines.append("")
         for finding in group:
-            lines.append(f"- **{finding['rule']}** — {finding['transaction_id']}: {finding['detail']}")
+            lines.append(f"- **{finding['rule']}** - {finding['transaction_id']}: {finding['detail']}")
         lines.append("")
     lines.append("## Recommended next steps")
     lines.append("")
